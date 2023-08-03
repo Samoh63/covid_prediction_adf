@@ -1,0 +1,9 @@
+{
+	"name": "covid-pred-adf",
+	"location": "norwayeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a88fb6b7-9774-49a1-a48c-0b97dd03fd3e",
+		"tenantId": "09a10672-822f-4467-a5ba-5bb375967c05"
+	}
+}
