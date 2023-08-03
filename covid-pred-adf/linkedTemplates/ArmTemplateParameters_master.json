@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "covid-pred-adf"
+		},
+		"ls_ablob_covidpredsa_connectionString": {
+			"value": ""
+		},
+		"ls_adls_covidpreddl_accountKey": {
+			"value": ""
+		},
+		"ls_adls_covidpreddl_properties_typeProperties_url": {
+			"value": "https://covidpreddl.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
