@@ -14,8 +14,14 @@
 		"ls_db_covid_cluster_accessToken": {
 			"value": ""
 		},
+		"ls_sql_covid_db_connectionString": {
+			"value": ""
+		},
 		"ls_adls_covidpreddl_properties_typeProperties_url": {
 			"value": "https://covidpreddl.dfs.core.windows.net/"
+		},
+		"ls_db_covid_cluster_properties_typeProperties_existingClusterId": {
+			"value": "0807-160317-538ukeh"
 		},
 		"ls_http_opendata_ecde_europa_eu_properties_typeProperties_url": {
 			"value": "@{linkedService().sourceBaseURL}"
