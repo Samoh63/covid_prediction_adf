@@ -40,9 +40,8 @@
 						"mappings": [
 							{
 								"source": {
-									"name": "Austria",
 									"type": "String",
-									"physicalType": "String"
+									"ordinal": 1
 								},
 								"sink": {
 									"name": "country",
@@ -52,9 +51,8 @@
 							},
 							{
 								"source": {
-									"name": "AT",
 									"type": "String",
-									"physicalType": "String"
+									"ordinal": 2
 								},
 								"sink": {
 									"name": "country_code_2_digit",
@@ -64,9 +62,8 @@
 							},
 							{
 								"source": {
-									"name": "AUT",
 									"type": "String",
-									"physicalType": "String"
+									"ordinal": 3
 								},
 								"sink": {
 									"name": "country_code_3_digit",
@@ -76,9 +73,8 @@
 							},
 							{
 								"source": {
-									"name": "2020-W15",
 									"type": "String",
-									"physicalType": "String"
+									"ordinal": 4
 								},
 								"sink": {
 									"name": "year_week",
@@ -88,9 +84,8 @@
 							},
 							{
 								"source": {
-									"name": "2020-04-05",
 									"type": "String",
-									"physicalType": "String"
+									"ordinal": 5
 								},
 								"sink": {
 									"name": "week_start_date",
@@ -100,9 +95,8 @@
 							},
 							{
 								"source": {
-									"name": "2020-04-11",
 									"type": "String",
-									"physicalType": "String"
+									"ordinal": 6
 								},
 								"sink": {
 									"name": "week_end_date",
@@ -112,9 +106,8 @@
 							},
 							{
 								"source": {
-									"name": "2041",
 									"type": "String",
-									"physicalType": "String"
+									"ordinal": 7
 								},
 								"sink": {
 									"name": "new_cases",
@@ -124,9 +117,8 @@
 							},
 							{
 								"source": {
-									"name": "12339",
 									"type": "String",
-									"physicalType": "String"
+									"ordinal": 8
 								},
 								"sink": {
 									"name": "tests_done",
@@ -136,9 +128,8 @@
 							},
 							{
 								"source": {
-									"name": "8858775",
 									"type": "String",
-									"physicalType": "String"
+									"ordinal": 9
 								},
 								"sink": {
 									"name": "population",
@@ -148,9 +139,8 @@
 							},
 							{
 								"source": {
-									"name": "139.285623576623",
 									"type": "String",
-									"physicalType": "String"
+									"ordinal": 10
 								},
 								"sink": {
 									"name": "testing_data_source",
